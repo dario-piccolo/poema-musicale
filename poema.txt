@@ -4,6 +4,7 @@ Rosso
 Verde
 Ciano
 Giallo
+Arancione
 Blu
 
 Questi sono i colori dell'arcobaleno
